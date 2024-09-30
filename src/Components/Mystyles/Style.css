@@ -1,0 +1,47 @@
+.list-group a:hover{
+    background:gray;
+    color: white;
+    cursor: pointer;
+   }
+   
+   .title{
+    text-align: center;
+    color: #212ea0;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 70px 0 30px;
+    font-weight: bold;
+}
+.title h2{
+    font-size: 32px;
+    color:#000f38;
+    text-transform: none;
+    font-weight: bold;
+}
+
+.form-section{
+    width: 50%;
+}
+.sidebar .b_name{
+  font-weight: bold;
+}
+.home{
+    background: white;
+}
+
+.nav-sec i{
+    color:#000f38 ;
+    font-weight: bold;
+}
+.nav-sec a{
+    color:#000f38 ;
+    font-weight: bold; 
+}
+.emplo span{
+    font-weight: bold;
+}
+.emplo p{
+    line-height:0.5;
+}
+

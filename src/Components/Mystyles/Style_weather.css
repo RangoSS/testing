@@ -1,0 +1,46 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  header {
+
+      display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+  }
+  
+  .weather-info {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px 0;
+    background-color: #f0f0f0;
+  }
+  
+  li:hover {
+    background-color: #e0e0e0;
+  }
+
+
+  .forecast-top {
+    display: flex;
+    list-style: none; /* removes the bullet points from the list */
+    height: 20%;
+  }
+  
